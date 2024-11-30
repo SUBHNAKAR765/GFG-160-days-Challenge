@@ -17,3 +17,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 1. Maximum Product subarray - String
 2. Add Binary Strings 
 3. Anagram - String
+4. Non Repeating Character - String
