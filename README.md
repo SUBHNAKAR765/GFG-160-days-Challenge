@@ -18,3 +18,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Add Binary Strings 
 3. Anagram - String
 4. Non Repeating Character - String
+5. Search Pattern (KMP-Algorithm) - String & Pattern Searching 
