@@ -22,3 +22,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Min Chars to Add for Palindrome - String
 7. Strings Rotations of Each Other - String
 
+# Sorting
+1. Sort 0s, 1s and 2s - array Sorting 
