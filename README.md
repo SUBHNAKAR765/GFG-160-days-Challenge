@@ -24,4 +24,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 7. Strings Rotations of Each Other - String
 
 # Sorting
-1. Sort 0s, 1s and 2s - array Sorting 
+1. Sort 0s, 1s and 2s - array Sorting
+2. Find H-Index - array sorting
