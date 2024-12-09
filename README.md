@@ -29,4 +29,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Count Inversions - Sorting
 4. Overlapping Intervals - Sorting
 5. Insert Interval - Sorting
+6. Non Overlapping Intervals - greedy algorithm, sorting
 
