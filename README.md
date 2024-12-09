@@ -28,4 +28,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Find H-Index - array Sorting
 3. Count Inversions - Sorting
 4. Overlapping Intervals - Sorting
+5. Insert Interval - Sorting
 
