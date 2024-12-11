@@ -32,3 +32,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Non Overlapping Intervals - greedy algorithm, sorting
 7. Merge Without Extra Space -  Hard, Sorting
 
+# Searching
+1. Number of occurrence - Easy 
