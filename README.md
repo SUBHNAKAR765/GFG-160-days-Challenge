@@ -36,4 +36,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # Searching
 1. Number of occurrence - Easy
 2. Sorted and Rotated Minimum - Easy
-3. Search in Rotated Sorted Array - medium 
+3. Search in Rotated Sorted Array - medium
+4. Peak Element -Basic - Used Binary Search
