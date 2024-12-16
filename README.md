@@ -39,4 +39,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Search in Rotated Sorted Array - medium
 4. Peak Element -Basic - Used Binary Search
 5. K-th element of two Arrays -  Binary search
+6. Aggressive Cows - Binary search
 
