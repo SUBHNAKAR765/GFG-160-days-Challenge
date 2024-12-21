@@ -47,3 +47,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # Matrix
 1. Spirally traversing a matrix
 2. Rotate by 90 degree
+3. Search in a Row-Column Sorted Matrix
