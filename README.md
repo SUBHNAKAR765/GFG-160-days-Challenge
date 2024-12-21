@@ -45,4 +45,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8. Kth Missing Positive Number in a Sorted Array - Binary Search 
 
 # Matrix
-1. Spirally traversing a matrix 
+1. Spirally traversing a matrix
+2. Rotate by 90 degree
