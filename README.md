@@ -7,6 +7,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Sorting
 4. Searching
 5. Matrix
+6. Hash
    
 # Array
 1. Reverse of an array
@@ -51,5 +52,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Search in a Row-Wise Sorted Matrix
 5. Search in a sorted Matrix
 6. Set Matrix Zeroes
-
 7. Search in a sorted Matrix
+
+# Hash
+1. Two Sum-Pair with GIven Sum 
