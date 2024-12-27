@@ -55,4 +55,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 7. Search in a sorted Matrix
 
 # Hash
-1. Two Sum-Pair with GIven Sum 
+1. Two Sum-Pair with GIven Sum
+2. Count pairs with given sum
