@@ -57,3 +57,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # Hash
 1. Two Sum-Pair with GIven Sum
 2. Count pairs with given sum
+3. Find all triplets with Zero Sum
