@@ -60,3 +60,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Find all triplets with Zero Sum
 4. Intersection of Two arrays with Duplicate Elements
 5. Union of Arrays with Duplicates
+6. Longest Consecutive Subsequence
+
