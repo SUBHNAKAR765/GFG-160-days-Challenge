@@ -61,4 +61,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Intersection of Two arrays with Duplicate Elements
 5. Union of Arrays with Duplicates
 6. Longest Consecutive Subsequence
+7.  Print Anagrams Together
 
