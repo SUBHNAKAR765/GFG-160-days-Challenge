@@ -63,4 +63,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Longest Consecutive Subsequence
 7.  Print Anagrams Together
 8.  Subarrays with Sum K.
+9.  Count Subarrays with given XOR
 
