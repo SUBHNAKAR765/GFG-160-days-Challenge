@@ -65,3 +65,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8.  Subarrays with Sum K.
 9.  Count Subarrays with given XOR
 
+# Two Pointer Technique
+1. Count all triplets with given sum in sorted array
+
+
