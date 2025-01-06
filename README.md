@@ -69,4 +69,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 1. Count all triplets with given sum in sorted array
 2. Count Pairs whose sum is less than target.
 3. Sum Pair closest to target
+4. Pair with given sum in a sorted array
 
