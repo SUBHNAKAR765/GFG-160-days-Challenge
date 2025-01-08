@@ -70,4 +70,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Count Pairs whose sum is less than target.
 3. Sum Pair closest to target
 4. Pair with given sum in a sorted array
+5. Count the number of possible triangles
 
