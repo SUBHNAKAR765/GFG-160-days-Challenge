@@ -8,8 +8,9 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Searching
 5. Matrix
 6. Hash
+7. Two-Pointer Technique
    
-# Array
+# 1. Array
 1. Reverse of an array
 2. Minimize the height II
 3. Kadane's Algorithm
@@ -17,7 +18,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 5. Max Circular Subarray Sum - Using Kadane's Algorithm
 6. Samllest Positive Missing Number - 2 Approaches , 1 with time efficency and 2 is Brute Force
 
-# String
+# 2. String
 1. Maximum Product subarray - String
 2. Add Binary Strings 
 3. Anagram - String
@@ -26,7 +27,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Min Chars to Add for Palindrome - String
 7. Strings Rotations of Each Other - String
 
-# Sorting
+# 3. Sorting
 1. Sort 0s, 1s and 2s - array Sorting
 2. Find H-Index - array Sorting
 3. Count Inversions - Sorting
@@ -35,7 +36,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Non Overlapping Intervals - greedy algorithm, sorting
 7. Merge Without Extra Space -  Hard, Sorting
 
-# Searching
+# 4. Searching
 1. Number of occurrence - Easy
 2. Sorted and Rotated Minimum - Easy
 3. Search in Rotated Sorted Array - medium
@@ -45,7 +46,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 7. Allocate Minimum Pages  - Binary Searching - With 2 approaches (1. Two Variables 2. Three Variables)
 8. Kth Missing Positive Number in a Sorted Array - Binary Search 
 
-# Matrix
+# 5. Matrix
 1. Spirally traversing a matrix
 2. Rotate by 90 degree
 3. Search in a Row-Column Sorted Matrix
@@ -54,7 +55,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Set Matrix Zeroes
 7. Search in a sorted Matrix
 
-# Hash
+# 6. Hash
 1. Two Sum-Pair with GIven Sum
 2. Count pairs with given sum
 3. Find all triplets with Zero Sum
@@ -65,7 +66,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8.  Subarrays with Sum K.
 9.  Count Subarrays with given XOR
 
-# Two Pointer Technique
+# 7. Two Pointer Technique
 1. Count all triplets with given sum in sorted array
 2. Count Pairs whose sum is less than target.
 3. Sum Pair closest to target
