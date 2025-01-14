@@ -77,3 +77,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8. Longest substring with distinct characters
 9. Trapping Rain Water
 10. Container With Most Water
+
+# 8. Prefix Sum
+1. Equilibrium Point
