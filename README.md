@@ -80,3 +80,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 8. Prefix Sum
 1. Equilibrium Point
+2. Longest Subarray with Sum K
