@@ -83,3 +83,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Longest Subarray with Sum K
 3. Largest subarray of 0's and 1's
 4. Product array puzzle
+
+# 9. Linked List
+1. Reverse a linked list
