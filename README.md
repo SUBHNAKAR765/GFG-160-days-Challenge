@@ -86,3 +86,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 9. Linked List
 1. Reverse a linked list
+2. Rotate a Linked List
