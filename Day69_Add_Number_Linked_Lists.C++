@@ -21,3 +21,52 @@
 // 0 <= elements of both linked lists <= 9
 
 // SOLUTION: 
+
+class Solution {
+  public:
+  Node* reverseList(Node* head){
+      Node *curr = head;
+      Node *prev = NULL, *next;
+      while(curr){
+          next = curr->next;
+          curr->next = prev;
+          prev = curr;
+          curr = next;
+      }
+      return prev;
+  }
+    Node* addTwoLists(Node* num1, Node* num2) {
+        // code here
+        num1 = reverseList(num1);
+        num2 = reverseList(num2);
+        
+        int carry =0;
+        Node* ans = new Node(0);
+        Node* first = ans;
+        
+        while(num1 || num2 || carry){
+            int sum = carry;
+            if(num1){
+                sum += num1->data;
+                num1 = num1->next;
+            }
+            if(num2){
+                sum += num2->data;
+                num2 = num2->next;
+            }
+            ans->data = sum%10;
+            carry = sum/10;
+            
+            if(num1|| num2 || carry){
+                ans->next = new Node(0);
+                ans = ans->next;
+            }
+        }
+        first = reverseList(first);
+        
+        while(first && first->data ==0 && first->next){
+            first = first->next;
+        }
+        return first;
+    }
+};
