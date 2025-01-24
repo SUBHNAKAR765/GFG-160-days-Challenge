@@ -91,4 +91,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Linked List Group Reverse
 5. Add Number Linked Lists
 6. Clone List with Next and Random
+7. Detect Loop in linked list
 
