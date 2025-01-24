@@ -30,7 +30,7 @@
 // 0 <= node->data <= 1000
 // 1 <= a, b <= 100
 
-// SOLUITON: 
+// SOLUITON 1:
 
 class Solution {
   public:
@@ -70,5 +70,44 @@ class Solution {
         }
 
         return dummy->next;
+    }
+};
+
+
+// SOLUTION 2:
+class Solution {
+  public:
+    Node *cloneLinkedList(Node *head) {
+        // Write your code here
+        if(!head) return nullptr;
+        
+        Node* curr = head;
+        while(curr){
+            Node* temp = new Node(curr->data);
+            temp->next = curr->next;
+            curr->next = temp;
+            curr = temp->next;
+        }
+        curr = head;
+        while(curr){
+            if(curr->random){
+                curr->next->random = curr->random->next;
+            }
+            curr = curr->next->next;
+        }
+        
+        Node* cloneHead = head->next;
+        curr = head;
+        Node* clonecurr = cloneHead;
+        
+        while(curr){
+            curr->next = curr->next->next;
+            if(clonecurr->next){
+                clonecurr->next = clonecurr->next->next;
+            }
+            curr = curr->next;
+            clonecurr = clonecurr->next;
+        }
+        return cloneHead;
     }
 };
