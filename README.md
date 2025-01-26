@@ -93,5 +93,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Clone List with Next and Random
 7. Detect Loop in linked list
 8. Find the first node of loop in linked list
+9. Remove loop in Linked List
 
 
