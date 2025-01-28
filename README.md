@@ -96,5 +96,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 9. Remove loop in Linked List
 10. LRU Cache
 
-
+# 10. Recursion and Backtracking
+1. Permutations of a String
 
