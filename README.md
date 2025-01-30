@@ -99,3 +99,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # 10. Recursion and Backtracking
 1. Permutations of a String
 2. Implement Pow
+3. N-Queen Problem
