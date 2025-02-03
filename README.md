@@ -105,3 +105,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 11. Tree
 1. Level order traversal
+2. Height of Binary Tree
