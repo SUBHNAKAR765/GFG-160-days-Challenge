@@ -26,6 +26,6 @@ class Solution {
             end--;
         }
 
-         end = arr.size() -1;
+         start  = arr.size() -1;
     }
 };
